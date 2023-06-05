@@ -13,8 +13,6 @@ namespace Redream.Properties {
     
     
     /// <summary>
-    ///   Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
-    /// </summary>
     // Cette classe a été générée automatiquement par la classe StronglyTypedResourceBuilder
     // à l'aide d'un outil, tel que ResGen ou Visual Studio.
     // Pour ajouter ou supprimer un membre, modifiez votre fichier .ResX, puis réexécutez ResGen
@@ -69,9 +67,6 @@ namespace Redream.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap _16_dice {
             get {
@@ -133,7 +128,6 @@ namespace Redream.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap blank_check_box {
             get {
                 object obj = ResourceManager.GetObject("blank-check-box", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
